@@ -1,3 +1,4 @@
+# coding=UTF-8
 """
 
 .. moduleauthor:: Patrick Kocsis <pkocsis@student.tgm.ac.at>
